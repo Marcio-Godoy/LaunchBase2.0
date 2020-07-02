@@ -5,7 +5,7 @@ const usuarios = [
 ]
 
 for (let usuario of usuarios) {
-    console.log('${usuario.nome} trabalha com ${usuario.tecnologias.join(', ')}')
+    console.log(`${usuario.nome} trabalha com ${usuario.tecnologias.join(', ')}`)
 }
 
 function checaSeUsuarioUsaCSS(usuario) {
