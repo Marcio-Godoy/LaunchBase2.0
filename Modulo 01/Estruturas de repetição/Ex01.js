@@ -51,9 +51,9 @@ const media2 = calculaMedia(alunosDaTurmaB)
 
 function enviaMensagem(media, turma) {
     if (media > 5)
-        console.log('A média da turma ${turma} foi de ${media}, Parabéns turma!')
+        console.log(`A média da turma ${turma} foi de ${media}, Parabéns turma!`)
     else {
-        console.log('A média da turma ${turma} foi de ${media}, Favor estudar!')
+        console.log(`A média da turma ${turma} foi de ${media}, Favor estudar!`)
     }
 }
 
