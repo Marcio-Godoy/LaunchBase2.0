@@ -1,5 +1,5 @@
 # LaunchBase2.0
-Curso de programação da Rocketseat, onde irá iniciar a introdução de programação web, front-end e back-end utilizando HTML, CSS, Javascript.
+Bootcamp de programação da Rocketseat, onde irá iniciar a introdução de programação web, front-end e back-end utilizando HTML, CSS, Javascript.
 
 <h1 align="center">
     <img alt="Launchbase" src="https://storage.googleapis.com/golden-wind/bootcamp-launchbase/logo.png" width="400px" />
