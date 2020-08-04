@@ -68,19 +68,3 @@ Bootcamp de programação da Rocketseat, onde irá iniciar a introdução de pro
 
 ## Módulo 11 - NodeJs Avançado
 - [ ] 1. Desafio 11 - Mini desafios (Conjunto de 4 desafios, sendo eles: Model Base, Seeds, Validação e Animações com Lottie)
-
-  Desafios Realizados através do Bootcamp LaunchBase pela RocketSeat
-</h3>
-
-<p align="center">
-
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%23F8952D">
-  </a>
-
-  <a href="LICENSE" >
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
-  </a>
-
-</p>
-
